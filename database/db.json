@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "productName": "3ce Velvet lip Tint",
+      "productImage": "admin/img/sp/a1.jpg",
+      "color": "Private",
+      "price": "300000",
+      "manufactory": "Japan",
+      "description": "Màu son hót và được yêu thích nhất hiên nay, SON KEM LÌ 3CE VELVET LIP TINT có chất son mềm mịn như nhung nhưng không hề đặc như các dòng son kem khác, mà mỏng nhẹ như son tint.",
+      "id": 2
+    },
+    {
+      "productName": "M.A.C",
+      "productImage": "admin/img/sp/a2.jpg",
+      "color": "Ruby Woo",
+      "price": "445000",
+      "manufactory": "Korea",
+      "description": "Dòng son nổi tiếng với tính chất lâu trôi màu. Son Mac Ruby Woo một trong những màu son đỏ được yêu thích nhất hiện nay, với chất son lì, giữ màu cực tốt và màu lên chuẩn nên rất được các nàng lựa chọn.",
+      "id": 3
+    },
+    {
+      "productName": "Dior",
+      "productImage": "admin/img/sp/a3.jpg",
+      "color": "Rouge 999",
+      "price": "799000",
+      "manufactory": "Korea",
+      "description": "Dòng son cao cấp, son Dior Rouge 999 là cây son đỏ bán chạy nhất trong lịch sử của Dior. Trở thành thỏi son không bao giờ làm chị em phải hối hận khi đem theo bên mình.",
+      "id": 4
+    },
+    {
+      "productName": "Romand Zero Velvet Tint",
+      "productImage": "admin/img/sp/a4.jpg",
+      "color": "Private",
+      "price": "139000",
+      "manufactory": "Korea",
+      "description": "Romand Zero Velvet Tint có thân hình trụ tròn, vỏ nhám lì dễ dàng phân biệt màu son bên trong, kích thước cầm vừa tay. Chất son mềm mịn như bông, không hề bóng hay dễ bị lem khi lên môi. Độ bám nhiều giờ đồng hồ, son lên màu môi chuẩn chỉ với một lần tô.",
+      "id": 5
+    },
+    {
+      "productName": "DHC Lip Cream Japan",
+      "productImage": "admin/img/sp/a5.jpg",
+      "color": "No color",
+      "price": "245000",
+      "manufactory": "Japan",
+      "description": "Son DHC Lip Cream có công dụng dưỡng ẩm, trị thâm, làm mọng nước và hồng môi lên chỉ sau một thời gian ngắn sử dụng. Dù các nàng có đôi môi khô, nứt nẻ đến đâu đi chăng nữa chỉ sau một đêm sử dụng em nó đôi môi của bạn cũng sẽ mềm mại ẩm mướt hơn rất nhiều.",
+      "id": 6
+    },
+    {
+      "productName": "Merbliss City Holic Lip Rouge",
+      "productImage": "admin/img/sp/a6.jpg",
+      "color": "Scarlet",
+      "price": "399000",
+      "manufactory": "Korea",
+      "description": "Chất son siêu mềm mượt, lì nhưng không gây khô môi.Thiết kế sang chảnh, độc đáo, thời thường, là món quà tuyệt vời cho những người phụ nữ quan trọng của bạn.Bảng màu đa dạng, mới mẻ cho bạn những trải nghiệm vô cùng thú vị.",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "buingan93@gmail.com",
+      "password": "toilanguoimanhme123"
+    },
+    {
+      "id": "2",
+      "username": "buingan93+1@gmail.com",
+      "password": "toilanguoimanhme123"
+    }
+  ],
+  "khachhang": [
+    {
+      "hoten": "Ngân",
+      "taotendnkh": "Ngân",
+      "taopass": "123456",
+      "sdtkh": "1234567",
+      "dckh": "Huế",
+      "id": 1
+    }
+  ]
+}
